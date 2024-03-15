@@ -1,11 +1,11 @@
-import Nav from '@/app/Components/Nav/page'
+
 import React from 'react'
 
 function Page() {
   return (
     <>
 
-      <Nav/>
+
       
      <div className='section'>
 

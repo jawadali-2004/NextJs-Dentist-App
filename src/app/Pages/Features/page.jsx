@@ -1,4 +1,4 @@
-import Nav from '@/app/Components/Nav/page';
+
 import React from 'react'
 import { TiTick } from "react-icons/ti";
 
@@ -7,7 +7,7 @@ const Feature = () => {
     return (
         <>
 
-            <Nav/>
+            
             <div className='section4'>
 
                 <div className='display'>

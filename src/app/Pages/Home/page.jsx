@@ -1,4 +1,4 @@
-import Nav from "@/app/Components/Nav/page";
+
 import { FaUserDoctor } from "react-icons/fa6";
 import { CiDollar } from "react-icons/ci";
 import { IoIosTimer } from "react-icons/io";
@@ -6,7 +6,7 @@ import { IoIosTimer } from "react-icons/io";
 const Home = () => {
   return (
     <>
-      <Nav/>
+      
       <div className="main">
       
         <div className="move">

@@ -1,4 +1,4 @@
-import Nav from '@/app/Components/Nav/page'
+
 import React from 'react'
 
 const Elements = () => {
@@ -7,7 +7,6 @@ const Elements = () => {
 
     <div className='section3'>
 
-      <Nav/>
 
         <div className='ptag'>
          <p>OUR SPECIALISTS </p>

@@ -3,13 +3,13 @@ import { BsFillTelephoneFill } from "react-icons/bs";
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { FaMessage } from "react-icons/fa6";
 import { CiClock2 } from "react-icons/ci";
-import Nav from '@/app/Components/Nav/page';
+
 
 const Footer = () => {
     return (
         <>
 
-            <Nav/>
+            
             <div className='section6'>
 
                 <div className='ok'>

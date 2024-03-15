@@ -1,11 +1,11 @@
-import Nav from '@/app/Components/Nav/page';
+
 import React from 'react'
 import { IoStarSharp } from "react-icons/io5";
 
 const Blog = () => {
     return (
         <>
-            <Nav/>
+            
             <div className='section5'>
 
                 <div className='ptag'> PATIENT TESTIMONIALS</div>

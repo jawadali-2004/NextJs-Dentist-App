@@ -1,11 +1,11 @@
-import Nav from '@/app/Components/Nav/page'
+
 import React from 'react'
 
 const Portfolio = () => {
   return (
     <>
 
-    <Nav/>
+  
 
     
       <div className='section2'>
